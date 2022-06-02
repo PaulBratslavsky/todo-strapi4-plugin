@@ -1,4 +1,6 @@
-# 3 Building out frontend of our plugin using Strapi Design System.
+# Building out frontend of our plugin using Strapi Design System.
+
+This plugin is based on the Strapi Plugin Development 101 Course created by Paul.
 
 # Outline
 

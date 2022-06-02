@@ -1,19 +1,28 @@
 {
   "name": "todo",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "Simple Todo plugin example for the Plugin Dev 101 Course.",
   "strapi": {
     "name": "todo",
-    "description": "Description of todo plugin",
+    "displayName": "Todo Plugin Dev 101",
+    "description": "Simple Todo plugin example for the Plugin Dev 101 Course.",
     "kind": "plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulBratslavsky/todo-strapi4-plugin"
   },
   "dependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name": "Paul Bratslavsky",
+    "email": "paul.bratslavsky@strapi.io",
+    "url": "https://strapi.io"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Paul Bratslavsky",
+      "email": "paul.bratslavsky@strapi.io",
+      "url": "https://strapi.io"
     }
   ],
   "engines": {
