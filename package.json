@@ -16,6 +16,9 @@
   "peerDependencies": {
     "@strapi/strapi": "^4.0.0"
   },
+  "resolutions": {
+    "yargs": "^17.2.1"
+  },
   "author": {
     "name": "Paul Bratslavsky",
     "email": "paul.bratslavsky@strapi.io",
