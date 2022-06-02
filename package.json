@@ -1,9 +1,9 @@
 {
-  "name": "@strapi/todo-plugin-dev-101",
+  "name": "todo-plugin-dev-101",
   "version": "1.0.0",
   "description": "Simple Todo plugin example for the Plugin Dev 101 Course.",
   "strapi": {
-    "name": "@strapi/todo-plugin-dev-101",
+    "name": "todo-plugin-dev-101",
     "displayName": "Todo Plugin Dev 101",
     "description": "Simple Todo plugin example for the Plugin Dev 101 Course.",
     "kind": "plugin"
